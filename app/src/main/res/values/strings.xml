@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FavoriteRestaurantFragments</string>
+
+    <string-array name="restaurants">
+        <item>Google</item>
+        <item>Facebook</item>
+        <item>Ferris</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>https://google.com</item>
+        <item>https://facebook.com</item>
+        <item>https://ferris.edu</item>
+    </string-array>
+
+</resources>
